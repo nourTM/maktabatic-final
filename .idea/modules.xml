@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Email-Notification-Service/Email-Notification-Service.iml" filepath="$PROJECT_DIR$/Email-Notification-Service/Email-Notification-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Projects/account-management/account-management.iml" filepath="$PROJECT_DIR$/../../Projects/account-management/account-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-getway/api-getway.iml" filepath="$PROJECT_DIR$/api-getway/api-getway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/books-management/books-management.iml" filepath="$PROJECT_DIR$/books-management/books-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-api/core-api.iml" filepath="$PROJECT_DIR$/core-api/core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/google-books-api/google-books-api.iml" filepath="$PROJECT_DIR$/google-books-api/google-books-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-cmd-loan-return/ms-cmd-loan-return.iml" filepath="$PROJECT_DIR$/ms-cmd-loan-return/ms-cmd-loan-return.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-config/ms-config.iml" filepath="$PROJECT_DIR$/ms-config/ms-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-query-loan-return/ms-query-loan-return.iml" filepath="$PROJECT_DIR$/ms-query-loan-return/ms-query-loan-return.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-registry/ms-registry.iml" filepath="$PROJECT_DIR$/ms-registry/ms-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-reservation/ms-reservation.iml" filepath="$PROJECT_DIR$/ms-reservation/ms-reservation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-retard/ms-retard.iml" filepath="$PROJECT_DIR$/ms-retard/ms-retard.iml" />
+    </modules>
+  </component>
+</project>

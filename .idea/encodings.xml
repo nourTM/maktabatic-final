@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../Projects/account-management/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Projects/account-management/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Email-Notification-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Email-Notification-Service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-getway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-getway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/books-management/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/google-books-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-cmd-loan-return/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-cmd-loan-return/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-query-loan-return/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-query-loan-return/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-reservation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-reservation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-retard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-retard/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

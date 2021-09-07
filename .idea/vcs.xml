@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Email-Notification-Service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-getway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/books-management" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-cmd-loan-return" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-query-loan-return" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-reservation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-retard" vcs="Git" />
+  </component>
+</project>

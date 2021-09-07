@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenBuildProjectComponent">
+    <option name="mavenExecutable" value="" />
+    <option name="Settings File" value="" />
+    <option name="mavenCommandLineParams" value="" />
+    <option name="vmOptions" value="" />
+    <option name="useMavenEmbedder" value="false" />
+    <option name="useFilter" value="false" />
+    <option name="Batch Mode" value="false" />
+    <option name="Check Plugin Updates" value="false" />
+    <option name="Debug" value="false" />
+    <option name="Errors" value="false" />
+    <option name="Fail At End" value="false" />
+    <option name="Fail Fast" value="false" />
+    <option name="Fail Never" value="false" />
+    <option name="Lax Checksums" value="false" />
+    <option name="No Plugin Registry" value="false" />
+    <option name="No Plugin Updates" value="false" />
+    <option name="Non Recursive" value="false" />
+    <option name="Offline" value="false" />
+    <option name="Reactor" value="false" />
+    <option name="Strict Checksums" value="false" />
+    <option name="Update Plugins" value="false" />
+    <option name="Update Snapshots" value="false" />
+    <option name="Skip Tests" value="false" />
+    <pom-list />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/google-books-api/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-gestion-ouvrages/pom.xml" />
+        <option value="$PROJECT_DIR$/gestion-ouvrages/pom.xml" />
+        <option value="$PROJECT_DIR$/books-management/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-config/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../LoanReturn/core-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../LoanReturn/ms-cmd-loan-return/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../LoanReturn/ms-query-loan-return/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../LoanReturn/ms-reservation/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Projects/account-management/pom.xml" />
+        <option value="$PROJECT_DIR$/api-getway/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-retard/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-cmd-loan-return/pom.xml" />
+        <option value="$PROJECT_DIR$/core-api/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-reservation/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-query-loan-return/pom.xml" />
+        <option value="$USER_HOME$/Downloads/Spring-Boot-Email-Notification-Rest-Service-master/Email-Notification-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Email-Notification-Service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

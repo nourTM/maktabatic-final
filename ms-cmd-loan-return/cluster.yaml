@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployement
+metadata:
+  name: docker
+  labels:
+    app: cluster
+spec:
+  replicas: 1
+  selector:
+    matchlabels:
+      app: cluster
+    template:
+      metadata:
+        labels:
+          app: cluster
+      spec:
+        containers:
+        - name: cluster
+          image: nourtm/cmd
+          port:
+          - containerPort: 8081
