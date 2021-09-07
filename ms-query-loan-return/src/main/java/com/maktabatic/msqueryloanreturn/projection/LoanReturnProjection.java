@@ -21,7 +21,7 @@ public class LoanReturnProjection {
         System.out.println("********************** Handling *****\n*****************\n*******\n");
         LoanReturn loanReturn = new
                 LoanReturn(new KeyLoanReturn(event.getId().getRr(),event.getId().getRb(),event.getId().getDateLoan()),event.getBook().getTitle(),
-                event.getReader().getName(),event.getReader().getFirstName(),event.getId().getState(),event.getDateReturn(),event.getBook().getIdNotice());
+                event.getReader().getLastname(),event.getReader().getFirstname(),event.getId().getState(),event.getDateReturn(),event.getBook().getIdNotice());
         loanReturnRepository.save(loanReturn);
     }
 
