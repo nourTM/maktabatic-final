@@ -3,7 +3,7 @@ package com.maktabatic.mscmdloanreturn.proxy;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.*;
 
-@FeignClient(name = "ms-reservation",url = "http://localhost:1000")//url = "https://reservation-maktabatic.herokuapp.com")
+@FeignClient(name="ms-reservation",url="https://reservation-maktabatic.herokuapp.com")
 public interface ReservationProxy {
     @GetMapping("/api/disponible/{idNotice}")
     Long countDisponible(@PathVariable("idNotice") Long id);

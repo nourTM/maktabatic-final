@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-@FeignClient(name = "ms-retard",url = "https://ms-retard.herokuapp.com")
+@FeignClient(name="ms-retard",url="https://ms-retard.herokuapp.com")
 public interface LateProxy {
     @GetMapping("/api/punished")
     boolean isPunished(@RequestParam("rr") String rr);

@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestParam;
 
-@FeignClient(name = "books-management",url="http://maktabatic-booksmanagement.herokuapp.com/")
+@FeignClient(name="books-management",url="http://maktabatic-booksmanagement.herokuapp.com")
 public interface BooksProxy {
     @GetMapping("/exemplaireApi/idnotice/{rb}")
     Long getIdNotice(@PathVariable("rb") String rb);
